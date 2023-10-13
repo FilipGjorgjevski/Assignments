@@ -1,11 +1,11 @@
 package dedomraz;
 
-class nigganigga {
+class nigg {
 
  private int num;
  public int num2;
  
- public nigganigga() {
+ public nigg() {
 	 
 	 num=0;
 	 num2=100;
@@ -25,7 +25,7 @@ class nigganigga {
 }
  public class babamrazica {
 	 public static void main(String[] args) {
-	nigganigga A = new nigganigga();
+	nigg A = new nigg();
 	System.out.println(A.getNum());
 	A.setNum(10);
 	System.out.println(A.getNum());
